@@ -13,7 +13,7 @@
 #### Colaboradores
 
 | Nombres | Apellidos |
-| ------ | -------- |
+
 | Jimena | Diaz De Los Santos    |
 | ------ | -------- |
 | Abril  | Gutiérrez Núñez|
