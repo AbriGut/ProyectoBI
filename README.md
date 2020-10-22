@@ -12,12 +12,12 @@
 
 #### Colaboradores
 
-| Nombre | Apellido |
+| Nombres | Apellidos |
 | ------ | -------- |
-| Jimena | Diaz     |
+| Jimena | Diaz De Los Santos    |
 | ------ | -------- |
-| Abril  | Gutierrez |
+| Abril  | Gutiérrez Núñez|
 | ------ | -------- |
-| Pablo  | Bernal   |
+| Pablo  | Bernal Lazcano  |
 | ------ | -------- |
-| Joel   | Camacho  |
+| Joel Ignacio  | Camacho Camacho |
